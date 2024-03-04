@@ -9,7 +9,7 @@
 .showcase {
   background: rgba(0, 0, 0, 0.781);
   width: 100%;
-  min-height: 255vh;
+  min-height: 265vh;
 }
 #myVideo {
   position: fixed;
@@ -265,7 +265,7 @@ nav ul li a:hover {
 footer {
   background: #ffffff;
   position: relative;
-  height: 65px;
+  height: 70px;
   top: 190px;
   border-top: rgb(38, 0, 255) solid 4px;
   scrollbar-shadow-color: #ff0000;
